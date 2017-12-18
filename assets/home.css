@@ -9,12 +9,13 @@ h1 span {
   font-weight: 700;  
 } 
 
-.container {
+.homeContainer {
    min-height:100%;
    position:relative;
 }
 
 .content {
+  font-family: 'Gudea', sans-serif;
   padding: 6em;
 }
 
