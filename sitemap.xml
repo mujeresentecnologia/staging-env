@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>https://mujeresentecnologia.github.io/staging-env/publicaciones/welcome</loc>
+<lastmod>2018-01-09T18:57:55+00:00</lastmod>
+</url>
+<url>
 <loc>https://mujeresentecnologia.github.io/staging-env/about.html</loc>
 <lastmod>2018-01-05T13:35:29+00:00</lastmod>
 </url>
