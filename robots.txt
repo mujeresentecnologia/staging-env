@@ -1,1 +1,0 @@
-Sitemap: https://mujeresentecnologia.github.io/staging-env/sitemap.xml
