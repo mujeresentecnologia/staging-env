@@ -27,6 +27,20 @@
 }
 
 
+.met_banner_published {
+  background:
+    linear-gradient(
+      rgba(82, 72, 156, 0.6),
+      rgba(82, 72, 156, 0.6)
+    ),
+    url("../images/banner_about.png");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;  
+}
+
+
 
 .met_banner_text {
   color: #FFFFFF;
