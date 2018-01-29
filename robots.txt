@@ -1,1 +1,3 @@
 Sitemap: https://mujeresentecnologia.github.io/staging-env/sitemap.xml
+User-Agent: *
+Disallow: /staging-env/
