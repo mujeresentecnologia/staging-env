@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>https://mujeresentecnologia.github.io/staging-env/mujeres-en-data-four</loc>
+<lastmod>2018-02-05T22:23:59+00:00</lastmod>
+</url>
+<url>
 <loc>https://mujeresentecnologia.github.io/staging-env/mujeres-en-data-science</loc>
 <lastmod>2018-01-30T18:59:49+00:00</lastmod>
 </url>
 <url>
-<loc>https://mujeresentecnologia.github.io/staging-env/tech-radar</loc>
-<lastmod>2018-02-01T19:47:13+00:00</lastmod>
+<loc>https://mujeresentecnologia.github.io/staging-env/mujeres-en-data-three</loc>
+<lastmod>2018-02-05T22:23:59+00:00</lastmod>
 </url>
 <url>
-<loc>https://mujeresentecnologia.github.io/staging-env/post-test-data</loc>
-<lastmod>2018-01-30T18:59:49+00:00</lastmod>
+<loc>https://mujeresentecnologia.github.io/staging-env/mujeres-en-data-two</loc>
+<lastmod>2018-02-05T22:23:59+00:00</lastmod>
+</url>
+<url>
+<loc>https://mujeresentecnologia.github.io/staging-env/tech-radar</loc>
+<lastmod>2018-02-01T19:47:13+00:00</lastmod>
 </url>
 <url>
 <loc>https://mujeresentecnologia.github.io/staging-env/data-engineering-thoughtworks</loc>
